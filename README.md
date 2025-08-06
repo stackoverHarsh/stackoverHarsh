@@ -8,13 +8,16 @@
 
 I am a B.Tech student with a profound interest in technology and software development. My journey is fueled by a passion for building meaningful projects and a commitment to daily self-improvement. I thrive on challenges and am constantly exploring new technologies to broaden my skill set.
 
-- 🌱 I’m currently exploring *Web Development, Artificial Intelligence and Machine Learning*.
-- 🔭 I’m working on my *Programming Skills*.
-- 🤝 I’m open to collaborating on *innovative open-source projects*.
-- 📫 How to reach me: *harshmishra200529@gmail.com*
-- ⚡ Fun fact: I enjoy making Tech Content.
-- ⚙ CEO, Presenter - *@bitsandgears* on Instagram, YouTube.
+<div style="font-family: 'Montserrat', sans-serif;">
 
+- 🌱 I'm currently exploring **Web Development, Artificial Intelligence and Machine Learning**
+- 🔭 I'm working on my **Programming Skills**
+- 🤝 I'm open to collaborating on **innovative open-source projects**
+- 📫 How to reach me: **harshmishra200529@gmail.com**
+- ⚡ Fun fact: I enjoy making **Tech Content**
+- ⚙️ CEO, Presenter - **@bitsandgears** on Instagram, YouTube
+
+</div>
 ---
 
 ### 🛠 My Tech Stack
